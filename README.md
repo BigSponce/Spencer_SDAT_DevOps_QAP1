@@ -2,6 +2,19 @@
 
 This is a simple Java project that uses Maven for dependency management and JUnit for testing.
 
+## QAP Problems
+
+Forgive me if this is sloppy as I've been extremely busy lately. 
+I don't live in town and all of the storms throughout the winter have damaged internet and power in my town. 
+My family also owns a business so they've needed my help there.
+
+To my best efforts, I have tried to watch all missed lectures and review the content. 
+
+I hope it reflects here, or helps highlight some spaces for improvement.
+
+This took some figuring out with JUnit and setting up Maven in VSCode, but I think I made out alright.
+Overall, no major problems.
+
 ## Project Structure
 
 - `pom.xml`: Maven project configuration.
@@ -64,3 +77,4 @@ The primary dependencies for this project are for JUnit 5, which is used for uni
 - **`junit-jupiter-engine`**: The engine that actually runs the tests.
 
 These dependencies are automatically downloaded from the **Maven Central Repository**, which is the default repository for Maven projects. They are declared in the `pom.xml` file.
+
